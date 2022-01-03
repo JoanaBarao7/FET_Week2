@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+}
+
+nav {
+    font-size: 40px;
+    margin-bottom: 30px;
+    text-align: left;
+    color: white;
+   }
+
+
+h1 {
+    color: gold;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;;
+}
+
+
+a {
+    margin:20px;
+    background-color: black;}
+     
+    :visited {
+        color:#af9f46
+    }
+
+.menu {
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.menu table {
+    color: white;
+    float: right;
+    margin-right: 150px;
+}
+
+form {
+    color:white;
+    font-size: 25px;
+}
+
+td, th {
+    border: 1px solid white;   
+}
+
+table {
+    width:50%;
+    margin-top: 100px;
+}
+
+ ul, ol, h2, h3 {
+    color: white;
+}
+li h2 {
+    color:#af9f46;
+}
+
+#home {
+    float:right;
+    width: 50%;
+    height: 500px;
+    margin-left: 120px;
+    margin-right: 100px;
+}
+#intro {
+    /* float:left; */
+    margin: 150px;
+}
+#reservations {
+    float: right;
+    width: 50%;
+    height: auto;
+}
+
+#tapas {
+    float: right;
+    width: 50%;
+    height:500px;
+    margin-bottom:50px;
+    margin-right: 70px;
+}
+
+#wines {
+    height: 500px;
+    width: auto;
+    float: left;
+    margin-left: 70px;
+    margin-top:100px;
+}
